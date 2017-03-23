@@ -1,6 +1,9 @@
 # Ammo Counter for Laser Tag Team Ops LTAR Tagger
 This is my second attempt to make an Ammo Counter for the LaserTag LTAR Tagger.  The v1 worked fine, but could get out of sync from missed tags.  This version fixes the sync issues by counting the beacon LED pulses instead of the IR tags.
 
+Demo Video:               
+https://www.youtube.com/watch?v=Hjc7z6LJstw
+
 **Usage:**
 
 Unhosted Games:
