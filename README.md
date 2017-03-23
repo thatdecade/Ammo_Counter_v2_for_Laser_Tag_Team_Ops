@@ -4,6 +4,9 @@ This is my second attempt to make an Ammo Counter for the LaserTag LTAR Tagger. 
 Demo Video:               
 https://www.youtube.com/watch?v=Hjc7z6LJstw
 
+Assembly Notes:       
+http://www.westaby.net/2013/12/ltar-display/
+
 **Usage:**
 
 Unhosted Games:
